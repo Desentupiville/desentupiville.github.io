@@ -4,23 +4,22 @@
 
 ## Preview
 
-[![Stylish Portfolio Preview]("
-http://desentupiville.com.br/")
+
 
 
 ## Status
 
 
-[![npm version](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-stylish-portfolio)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-stylish-portfolio.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-stylish-portfolio)
+[![npm version]()
+[![Build Status]()
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
 
 
-* Install via npm: `npm i startbootstrap-stylish-portfolio`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git`
+* Install via npm: ``
+* Clone the repo: ``
 * [Fork, Clone, or Download on GitHub](https://)
 
 ## Usage
@@ -52,8 +51,8 @@ You must have npm installed globally in order to use this build environment.
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
 * <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
 
 
 
-Copyright 2013-2020 Start Bootstrap LLC.
+
+Copyright Cleverton Rocha 2013-2020 Start Bootstrap LLC.
