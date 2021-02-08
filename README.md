@@ -9,8 +9,7 @@
 ## Status
 
 
-[![npm version]()
-[![Build Status]()
+
 
 ## Download and Installation
 
